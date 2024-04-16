@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Burger Recommendation</string>
+    <string name="e_burger">Veux-tu rejoindre la famille Happy Burger</string>
+    <string name="i_burger">Joyeux Burger !</string>
+</resources>

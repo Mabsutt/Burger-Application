@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Burger Recommendation</string>
+
+    <string name="e_burger">Do you wanna join the happy burger family?</string>
+    <string-array name="choose_burger_options">
+        <item>Beef Burgers</item>
+        <item>Chicken Burger</item>
+        <item>Vegan Burger</item>
+    </string-array>
+    <string name="i_burger">Happy Burger!</string>
+
+</resources>
